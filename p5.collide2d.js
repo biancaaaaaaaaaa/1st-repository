@@ -5,8 +5,6 @@ Some functions and code modified version from http://www.jeffreythompson.org/col
 Version v0.7.3 | June 22, 2020
 CC BY-NC-SA 4.0
 */
-
-
 console.log("### p5.collide v0.7.3 ###")
 
 p5.prototype._collideDebug = false;
